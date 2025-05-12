@@ -1,13 +1,14 @@
 {
-  "response": [
-    {
-      "datetime": (not yet generated),
-      "filename": "(not yet generated)",
-      "id": "(not yet generated)",
-      "romtype": "(not yet generated)",
-      "size": (not yet generated),
-      "url": "(not yet generated)",
-      "version": "(not yet generated)"
-    }
-  ]
+    "response": [
+        {
+            "datetime": 1747077595,
+            "filename": "axion-1.4-NIGHTLY-20250512-COMMUNITY-GMS-platina.zip",
+            "id": "40afc36efb56ecedb13bcebe176974f8",
+            "romtype": "COMMUNITY",
+            "size": 1736780422,
+            "url": "https://files.itzkaguya.workers.dev/1:/AxionAOSP/axion-1.4-NIGHTLY-20250512-COMMUNITY-GMS-platina.zip",
+            "version": "1.4"
+        }
+    ]
 }
+
