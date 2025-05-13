@@ -1,0 +1,27 @@
+From 25d2381fd8f45b6e0c00b7ada5315daeacc56677 Mon Sep 17 00:00:00 2001
+From: hiratazx <itzkaguya@yukiprjkt.my.id>
+Date: Tue, 13 May 2025 04:15:00 +0000
+Subject: [PATCH] Intiial custom update server on GitHub
+
+Change-Id: I4a2810b9a0355897fc4182ca32daf78736b16f5c
+Signed-off-by: hiratazx <itzkaguya@yukiprjkt.my.id>
+---
+ app/src/main/res/values/strings.xml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/app/src/main/res/values/strings.xml b/app/src/main/res/values/strings.xml
+index 63ce349..50a7989 100644
+--- a/app/src/main/res/values/strings.xml
++++ b/app/src/main/res/values/strings.xml
+@@ -31,7 +31,7 @@
+           {device} - Device name
+           {variant} - Build variant
+     -->
+-    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/AxionAOSP/official_devices/refs/heads/main/OTA/{variant}/{device}.json</string>
++    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/hiratazx/OTA/refs/heads/main/platina-axion.json</string>
+ 
+     <string name="verification_failed_notification">Verification failed</string>
+     <string name="verifying_download_notification">Verifying update</string>
+-- 
+2.43.0
+
