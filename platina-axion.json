@@ -1,14 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1747077595,
-            "filename": "axion-1.4-NIGHTLY-20250512-COMMUNITY-GMS-platina.zip",
-            "id": "40afc36efb56ecedb13bcebe176974f8",
+            "datetime": 1747109376,
+            "filename": "axion-1.4-NIGHTLY-20250513-COMMUNITY-GMS-platina.zip",
+            "id": "9aec56c879fd32f2e7a1e9d13ce53315",
             "romtype": "COMMUNITY",
-            "size": 1736780422,
-            "url": "https://files.itzkaguya.workers.dev/1:/AxionAOSP/axion-1.4-NIGHTLY-20250512-COMMUNITY-GMS-platina.zip",
+            "size": 1736803916,
+            "url": "https://files.itzkaguya.workers.dev/1:/AxionAOSP/NIGHTLY/axion-1.4-NIGHTLY-20250513-COMMUNITY-GMS-platina.zip",
             "version": "1.4"
         }
     ]
 }
-
