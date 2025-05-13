@@ -1,13 +1,13 @@
 {
     "response": [
         {
-            "datetime": 1747109376,
+            "datetime": 1747111873,
             "filename": "axion-1.4-NIGHTLY-20250513-COMMUNITY-GMS-platina.zip",
-            "id": "9aec56c879fd32f2e7a1e9d13ce53315",
+            "id": "614f2bb8191372220bab8029a6cc2059",
             "romtype": "COMMUNITY",
-            "size": 1736803916,
+            "size": 1736796443,
             "url": "https://files.itzkaguya.workers.dev/1:/AxionAOSP/NIGHTLY/axion-1.4-NIGHTLY-20250513-COMMUNITY-GMS-platina.zip",
-            "version": "1.4"
+            "version": "1.4-rev3"
         }
     ]
 }
